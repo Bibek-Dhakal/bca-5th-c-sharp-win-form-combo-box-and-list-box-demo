@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Combo_box_and_list_box_controls_demo/1.0.0": {
+        "runtime": {
+          "Combo_box_and_list_box_controls_demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Combo_box_and_list_box_controls_demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
